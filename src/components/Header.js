@@ -37,12 +37,6 @@ const Header = () => (
       <Box align="left" ml={3}>
         <Text>
           <strong>Next meeting</strong>
-//           <Link
-//             href="http://rmd.at/schacks"
-//             target="_blank"
-//             style={{ fontSize: 14, fontStyle: 'italic' }}
-//             children={' — want a reminder?'}
-//           />
         </Text>
         <Text>MSC 315, 3:00–4:15pm</Text>
       </Box>
