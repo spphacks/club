@@ -16,7 +16,7 @@ const Footer = () => (
         <Text>Saint Peter's Prep Programming Club</Text>
       </Column>
       <Column>
-        <Link href={data.repo} children="Source" />
+        <Link href="https://github.com/spphacks/club" children="Source" />
       </Column>
       <Column>
         <Link href="https://lachlanjc.me" children="Site by @lachlanjc" />
