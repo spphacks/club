@@ -8,7 +8,7 @@ const Submit = () => (
   <section id="submit">
     <Bar />
     <Heading.h2 f={4}>Submit</Heading.h2>
-    <form action="https://formspree.io/ljc14@scasd.org" method="POST">
+    <form action="https://formspree.io/techboss302@gmail.com" method="POST">
       <Columns>
         <Column>
           <Label>
