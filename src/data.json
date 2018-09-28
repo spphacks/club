@@ -1,12 +1,12 @@
 {
-  "name": "State High Hack Club",
+  "name": "Saint Peter's Prep Hack Club",
   "description": "A fun, creative place to learn to code with friends.",
-  "url": "https://statehigh.hackclub.com",
-  "repo": "https://github.com/schacks/site",
-  "card": "https://statehigh.hackclub.com/card.png",
+  "url": "https://spp.hackclub.com",
+  "repo": "https://github.com/spphacks/club",
+  "card": "https://spp.hackclub.com/card.png",
   "meeting": {
     "month": "October",
-    "day": 1
+    "day": 5
   },
   "workshops": [
     { "slug": "personal_website", "name": "Personal website" },
