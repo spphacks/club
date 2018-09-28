@@ -16,13 +16,10 @@ const Footer = () => (
         <Text>SPP Programming Club</Text>
       </Column>
   <Column>
-        <Text>Leaders: Samay, Dan, Shashwat, Nathan, Thomas  </Text>
+        <Text>Led by Samay, Dan, Shashwat, Nathan, & Thomas </Text>
       </Column>
       <Column>
         <Link href="https://lachlanjc.me" children="site by @lachlanjc" />
-      </Column>
-        <Column>
-        <Link href="https://github.com/spphacks/club" children="Source" />
       </Column>
     </Columns>
     <Bar mt={3} />
