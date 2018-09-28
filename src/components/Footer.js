@@ -13,16 +13,13 @@ const Footer = () => (
     <Bar />
     <Columns>
       <Column>
-        <Text>State High hacks</Text>
-      </Column>
-      <Column>
-        <Text>MIT license</Text>
+        <Text>Saint Peter's Prep Programming Club</Text>
       </Column>
       <Column>
         <Link href={data.repo} children="Source" />
       </Column>
       <Column>
-        <Link href="https://lachlanjc.me" children="By @lachlanjc" />
+        <Link href="https://lachlanjc.me" children="Site by @lachlanjc" />
       </Column>
     </Columns>
     <Bar mt={3} />
