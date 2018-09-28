@@ -7,7 +7,7 @@ import { ThemeProvider, Container, colors } from '@hackclub/design-system'
 export default ({ children }) => (
   <ThemeProvider>
     <Helmet
-      title="State High Hack Club"
+      title="Saint Peter's Prep Programming Club"
       meta={[
         { name: 'description', content: data.description },
         { name: 'twitter:card', content: 'summary_large_image' },
