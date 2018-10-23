@@ -38,7 +38,7 @@ const Header = () => (
         <Text>
           <strong>Next meeting</strong>
         </Text>
-        <Text>MSC 315, 3:00–4:15pm</Text>
+        <Text>MSC 315, 10:00–10:45AM</Text>
       </Box>
     </Flex>
   </Box>
