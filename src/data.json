@@ -6,7 +6,7 @@
   "card": "https://spp.hackclub.com/card.png",
   "meeting": {
     "month": "October",
-    "day": 5
+    "day": 24
   },
   "workshops": [
     { "slug": "personal_website", "name": "Personal website" },
